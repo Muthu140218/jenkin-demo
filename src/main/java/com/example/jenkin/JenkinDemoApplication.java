@@ -19,7 +19,7 @@ public class JenkinDemoApplication {
 	
 	public static void main(String[] args) {
 		logger.info("Application executed....");
-		logger.info("Application executed- step 1- verificatio for auto build....");
+		logger.info("Fourth Commit test....");
 
 		SpringApplication.run(JenkinDemoApplication.class, args);
 	}
