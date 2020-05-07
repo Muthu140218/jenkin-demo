@@ -16,7 +16,7 @@ class JenkinDemoApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("Test Cases executing....");
-		assertEquals(true, true);2
+		assertEquals(true, true);
 	}
 
 }
